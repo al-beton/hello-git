@@ -4,4 +4,4 @@ First readme edit to be comited 27th Feb
 
 Second edit
 
-Third edit from gihub
+Third edit from github
