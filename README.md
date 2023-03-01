@@ -1,5 +1,7 @@
-# morph
+# This is a test repo to freshen up my git(hub) skills
 
-# first readme edit to be comited 27th Feb
+First readme edit to be comited 27th Feb
 
-# second edit
+Second edit
+
+Third edit from gihub
