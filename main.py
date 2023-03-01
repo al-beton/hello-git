@@ -1,3 +1,3 @@
-print('Hello Git from Morph')
+print('Hello Git from beton')
 
 print('Hello again')
